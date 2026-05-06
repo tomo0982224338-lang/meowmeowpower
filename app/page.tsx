@@ -17,8 +17,3 @@ export default function Page() {
     </main>
   );
 }
-"use client";
-
-// force redeploy
-
-import { useState } from "react";
