@@ -1,4 +1,6 @@
-import React, { useMemo, useRef, useState } from "react";
+"use client";
+import React,
+{ useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { Download, ImagePlus, Shuffle, Type, SlidersHorizontal, Layers, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
